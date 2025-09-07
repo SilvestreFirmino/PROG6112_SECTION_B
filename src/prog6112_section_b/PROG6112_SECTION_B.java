@@ -1,8 +1,8 @@
-package prog6115_section_b;
+package prog6112_section_b;
 
 import java.util.Scanner;
 
-public class PROG6115_SECTION_B {
+public class PROG6112_SECTION_B {
 
     public static void main(String[] args) {
 

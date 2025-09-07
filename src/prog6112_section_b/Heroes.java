@@ -1,4 +1,4 @@
-package prog6115_section_b;
+package prog6112_section_b;
 
 
     class Heroes {
